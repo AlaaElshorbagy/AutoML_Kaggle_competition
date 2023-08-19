@@ -9,6 +9,7 @@ The dataset consists of two CSV files: 'features' and 'target'. The 'features' f
 **Challenge Objectives**
 
 Implementing machine learning models using the labeled 'train' data to predict the class labels for the 'test' data. 
+
 **Evaluation**
 
 The primary evaluation metric is the f1_macro score in scikit-learn.
